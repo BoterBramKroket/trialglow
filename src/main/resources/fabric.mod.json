@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "${mod_id}",
+  "version": "${mod_version}",
+  "name": "${mod_name}",
+  "description": "${mod_description}",
+  "authors": [
+    "${mod_authors}"
+  ],
+  "contact": {
+    "homepage": "${mod_display_url}"
+  },
+  "license": "${mod_license}",
+  "icon": "pack.png",
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  }
+}

@@ -1,0 +1,14 @@
+modLoader = 'lowcodefml'
+loaderVersion = "[0,)"
+license = "${mod_license}"
+showAsResourcePack = false
+
+[[mods]]
+modId = "${mod_id}"
+version = "${mod_version}"
+displayName = "${mod_name}"
+logoFile = "pack.png"
+authors = "${mod_authors}"
+displayURL = "${mod_display_url}"
+updateJSONURL = "${mod_update_url}/forge_updates.json"
+description = '''${mod_description}'''

@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": ${pack_format},
+    "supported_formats": {
+      "min_inclusive": ${pack_format_min},
+      "max_inclusive": ${pack_format_max}
+    },
+    "description": "${mod_description_short}"
+  }
+}
