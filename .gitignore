@@ -1,14 +1,17 @@
-# Excludes build of the mod
+# Exclude build of the mod
 build/
 
-# Excludes project cache of Gradle
+# Exclude Grade project cache
 .gradle/
 
-# Excludes Minecraft run folder
+# Exclude Minecraft run folder
 runs/
 
-# Excludes VS Code files
+# Exclude VS Code files
 .vscode/
 
-# Excludes Eclipse configurations
+# Exclude Eclipse configurations
 .eclipse/
+
+#Exclude Eclipse bin files
+bin/
