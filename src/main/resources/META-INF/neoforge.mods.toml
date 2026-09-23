@@ -1,14 +1,16 @@
 modLoader = 'lowcodefml'
 loaderVersion = "[0,)"
-license = "${mod_license}"
+license = "MIT"
 showAsResourcePack = false
+issueTrackerURL = "https://github.com/BoterBramKroket/trialglow/issues"
 
 [[mods]]
-modId = "${mod_id}"
-version = "${mod_version}"
-displayName = "${mod_name}"
+modId = "trialglow"
+version = "1.0.0"
+displayName = "Trial Glow"
 logoFile = "pack.png"
-authors = "${mod_authors}"
-displayURL = "${mod_display_url}"
-updateJSONURL = "${mod_update_url}/forge_updates.json"
-description = '''${mod_description}'''
+iconFile = "pack.png"
+authors = "BoterBramKroket"
+displayURL = "https://modrinth.com/datapack/trialglow"
+updateJSONURL = "https://api.modrinth.com/updates/p09B6ESi/forge_updates.json"
+description = '''Ring a bell on top of a trial spawner to highlight its mobs'''

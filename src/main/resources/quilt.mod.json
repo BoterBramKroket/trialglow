@@ -11,7 +11,8 @@
         "${mod_authors}": "Owner"
       },
       "contact": {
-        "homepage": "${mod_display_url}"
+        "homepage": "${mod_display_url}",
+        "issues": "https://github.com/BoterBramKroket/trialglow/issues"
       },
       "icon": "pack.png"
     },
