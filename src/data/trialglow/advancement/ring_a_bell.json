@@ -1,6 +1,6 @@
-{	
+{
 	"criteria": {
-		"trialglow": {
+		"player_not_sneaking": {
 			"trigger": "minecraft:any_block_use",
 			"conditions": {
 				"location": [
@@ -14,10 +14,67 @@
 							}
 						}
 					}
+				],
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"flags": {
+								"is_sneaking": false
+							}
+						}
+					}
+				]
+			}
+		},
+		"player_sneaking": {
+			"trigger": "minecraft:any_block_use",
+			"conditions": {
+				"location": [
+					{
+						"condition": "minecraft:location_check",
+						"predicate": {
+							"block": {
+								"blocks": [
+									"minecraft:bell"
+								]
+							}
+						}
+					}
+				],
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"flags": {
+								"is_sneaking": true
+							},
+							"equipment": {
+								"mainhand": {
+									"items": [
+										"minecraft:air"
+									]
+								},
+								"offhand": {
+									"items": [
+										"minecraft:air"
+									]
+								}
+							}
+						}
+					}
 				]
 			}
 		}
 	},
+	"requirements": [
+		[
+			"player_not_sneaking",
+			"player_sneaking"
+		]
+	],
 	"rewards": {
 		"function": "trialglow:raycast/start"
 	}
