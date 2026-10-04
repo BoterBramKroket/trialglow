@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Place a bell on top of a trial spawner and ring it highlight all its mobs!",
+        "min_format": 88,
+        "max_format": 121
+    }
+}
