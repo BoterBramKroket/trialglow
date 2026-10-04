@@ -1,2 +1,5 @@
 # Ignore datapack .zip files
 *.zip
+
+# Ignore test file
+test.mcfunction
