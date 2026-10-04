@@ -1,17 +1,2 @@
-# Exclude build of the mod
-build/
-
-# Exclude Grade project cache
-.gradle/
-
-# Exclude Minecraft run folder
-runs/
-
-# Exclude VS Code files
-.vscode/
-
-# Exclude Eclipse configurations
-.eclipse/
-
-#Exclude Eclipse bin files
-bin/
+# Ignore datapack .zip files
+*.zip
