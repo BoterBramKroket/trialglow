@@ -1,7 +1,21 @@
 {
     "pack": {
-        "description": "Place a bell on top of a trial spawner and ring it highlight all its mobs!",
-        "min_format": 88,
+        "description": "Ring a bell on top of a trial spawner to highlight all its mobs!",
+        "pack_format": 48,
+        "supported_formats": [
+            48,
+            121
+        ],
+        "min_format": 48, 
         "max_format": 121
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "26_3",
+                "min_format": 121,
+                "max_format": 121
+            }
+        ]
     }
 }
