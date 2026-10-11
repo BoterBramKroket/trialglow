@@ -20,4 +20,4 @@ This datapack is automatically compatible with any mod and/or datapack that adds
 ---
 
 ## How to install?
-You can the datapack on my Modrinth page: https://modrinth.com/datapack/trial-glow
+You can install the datapack on my Modrinth page: https://modrinth.com/datapack/trial-glow
