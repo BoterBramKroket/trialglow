@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Ring a bell on top of a trial spawner to highlight all its mobs!",
+        "description": "Ring a bell on top of a trial spawner to make all its mobs glow!",
         "pack_format": 48,
         "supported_formats": [
             48,
