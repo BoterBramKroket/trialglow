@@ -1,0 +1,52 @@
+{
+    "values": [
+        {
+            "id": "#iris:shape_groups/goat",
+            "required": false
+        },
+        {
+            "id": "minecraft:guardian",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/hoglin",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/horse",
+            "required": false
+        },
+        {
+            "id": "minecraft:iron_golem",
+            "required": false
+        },
+        {
+            "id": "minecraft:leash_knot",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/llama",
+            "required": false
+        },
+        {
+            "id": "minecraft:panda",
+            "required": false
+        },
+        {
+            "id": "minecraft:pig",
+            "required": false
+        },
+        {
+            "id": "minecraft:polar_bear",
+            "required": false
+        },
+        {
+            "id": "minecraft:rabbit",
+            "required": false
+        },
+        {
+            "id": "minecraft:ravager",
+            "required": false
+        }
+    ]
+}

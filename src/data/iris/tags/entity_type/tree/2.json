@@ -1,0 +1,52 @@
+{
+    "values": [
+        {
+            "id": "#iris:shape_groups/drowned",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/egg",
+            "required": false
+        },
+        {
+            "id": "minecraft:elder_guardian",
+            "required": false
+        },
+        {
+            "id": "minecraft:end_crystal",
+            "required": false
+        },
+        {
+            "id": "minecraft:ender_dragon",
+            "required": false
+        },
+        {
+            "id": "minecraft:enderman",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/endermite",
+            "required": false
+        },
+        {
+            "id": "minecraft:evoker_fangs",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/falling_block",
+            "required": false
+        },
+        {
+            "id": "minecraft:ghast",
+            "required": false
+        },
+        {
+            "id": "minecraft:giant",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/glow_squid",
+            "required": false
+        }
+    ]
+}

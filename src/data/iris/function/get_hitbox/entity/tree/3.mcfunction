@@ -1,0 +1,12 @@
+execute if entity @s[type=#iris:shape_groups/goat] run function iris:get_hitbox/entity/shape_groups/goat
+execute if entity @s[type=minecraft:guardian] run function iris:get_hitbox/entity/shape_groups/guardian
+execute if entity @s[type=#iris:shape_groups/hoglin] run function iris:get_hitbox/entity/shape_groups/hoglin
+execute if entity @s[type=#iris:shape_groups/horse] run function iris:get_hitbox/entity/shape_groups/horse
+execute if entity @s[type=minecraft:iron_golem] run function iris:get_hitbox/entity/shape_groups/iron_golem
+execute if entity @s[type=minecraft:leash_knot] run function iris:get_hitbox/entity/shape_groups/leash_knot
+execute if entity @s[type=#iris:shape_groups/llama] run function iris:get_hitbox/entity/shape_groups/llama
+execute if entity @s[type=minecraft:panda] run function iris:get_hitbox/entity/shape_groups/panda
+execute if entity @s[type=minecraft:pig] run function iris:get_hitbox/entity/shape_groups/pig
+execute if entity @s[type=minecraft:polar_bear] run function iris:get_hitbox/entity/shape_groups/polar_bear
+execute if entity @s[type=minecraft:rabbit] run function iris:get_hitbox/entity/shape_groups/rabbit
+execute if entity @s[type=minecraft:ravager] run function iris:get_hitbox/entity/shape_groups/ravager
