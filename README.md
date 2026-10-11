@@ -4,7 +4,7 @@ Trial Glow is a datapack that allows you to ring a bell on top of a trial spawne
 
 ![Banner.png](https://i.imgur.com/wYFLbUR.png)
 
-## How to use?
+## How to use:
 1. Place a bell on top of a trial spawner
 2. Ring the bell by right-clicking it
 3. The glow effect will now be applied to all mobs spawned from that trial spawner!
