@@ -13,6 +13,7 @@
         "entries": [
             {
                 "directory": "1.21-26.2",
+                "formats": [48, 107],
                 "min_format": 48,
                 "max_format": [107, 1]
             }
