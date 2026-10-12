@@ -1,6 +1,10 @@
 {
     "values": [
         {
+            "id": "#iris:shape_groups/horse",
+            "required": false
+        },
+        {
             "id": "minecraft:iron_golem",
             "required": false
         },
@@ -13,11 +17,15 @@
             "required": false
         },
         {
-            "id": "#iris:shape_groups/nautilus",
+            "id": "#iris:shape_groups/magma_cube",
             "required": false
         },
         {
             "id": "minecraft:panda",
+            "required": false
+        },
+        {
+            "id": "minecraft:phantom",
             "required": false
         },
         {
@@ -26,6 +34,10 @@
         },
         {
             "id": "minecraft:polar_bear",
+            "required": false
+        },
+        {
+            "id": "minecraft:pufferfish",
             "required": false
         },
         {
@@ -38,22 +50,6 @@
         },
         {
             "id": "minecraft:salmon",
-            "required": false
-        },
-        {
-            "id": "minecraft:sniffer",
-            "required": false
-        },
-        {
-            "id": "minecraft:snow_golem",
-            "required": false
-        },
-        {
-            "id": "minecraft:spider",
-            "required": false
-        },
-        {
-            "id": "minecraft:strider",
             "required": false
         }
     ]

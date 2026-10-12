@@ -53,14 +53,6 @@
             "required": false
         },
         {
-            "id": "minecraft:pale_oak_door",
-            "required": false
-        },
-        {
-            "id": "minecraft:poplar_door",
-            "required": false
-        },
-        {
             "id": "minecraft:spruce_door",
             "required": false
         },

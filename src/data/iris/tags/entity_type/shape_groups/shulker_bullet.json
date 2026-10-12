@@ -1,19 +1,19 @@
 {
     "values": [
         {
-            "id": "minecraft:copper_wall_torch",
+            "id": "minecraft:shulker_bullet",
             "required": false
         },
         {
-            "id": "minecraft:redstone_wall_torch",
+            "id": "minecraft:small_fireball",
             "required": false
         },
         {
-            "id": "minecraft:soul_wall_torch",
+            "id": "minecraft:wind_charge",
             "required": false
         },
         {
-            "id": "minecraft:wall_torch",
+            "id": "minecraft:wither_skull",
             "required": false
         }
     ]

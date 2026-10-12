@@ -37,15 +37,7 @@
             "required": false
         },
         {
-            "id": "minecraft:pale_oak_button",
-            "required": false
-        },
-        {
             "id": "minecraft:polished_blackstone_button",
-            "required": false
-        },
-        {
-            "id": "minecraft:poplar_button",
             "required": false
         },
         {

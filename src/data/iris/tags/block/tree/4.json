@@ -1,35 +1,35 @@
 {
     "values": [
         {
-            "id": "minecraft:weeping_vines",
+            "id": "minecraft:pitcher_crop",
             "required": false
         },
         {
-            "id": "minecraft:twisting_vines",
+            "id": "minecraft:pointed_dripstone",
             "required": false
         },
         {
-            "id": "minecraft:composter",
+            "id": "minecraft:rail",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/black_candle",
+            "id": "#iris:shape_groups/redstone_torch",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/black_candle_cake",
+            "id": "#iris:shape_groups/redstone_wall_torch",
             "required": false
         },
         {
-            "id": "minecraft:amethyst_cluster",
+            "id": "minecraft:redstone_wire",
             "required": false
         },
         {
-            "id": "minecraft:large_amethyst_bud",
+            "id": "minecraft:scaffolding",
             "required": false
         },
         {
-            "id": "minecraft:medium_amethyst_bud",
+            "id": "minecraft:sea_pickle",
             "required": false
         },
         {
@@ -37,15 +37,11 @@
             "required": false
         },
         {
-            "id": "#iris:shape_groups/calibrated_sculk_sensor",
+            "id": "minecraft:sniffer_egg",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/copper_golem_statue",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/pointed_dripstone",
+            "id": "minecraft:snow",
             "required": false
         },
         {
@@ -53,39 +49,43 @@
             "required": false
         },
         {
-            "id": "#iris:shape_groups/azalea",
+            "id": "#iris:shape_groups/sugar_cane",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/pink_petals",
+            "id": "minecraft:sweet_berry_bush",
             "required": false
         },
         {
-            "id": "minecraft:leaf_litter",
+            "id": "minecraft:torchflower_crop",
             "required": false
         },
         {
-            "id": "minecraft:big_dripleaf",
+            "id": "minecraft:tripwire",
             "required": false
         },
         {
-            "id": "minecraft:big_dripleaf_stem",
+            "id": "minecraft:tripwire_hook",
             "required": false
         },
         {
-            "id": "minecraft:hanging_roots",
+            "id": "minecraft:turtle_egg",
             "required": false
         },
         {
-            "id": "minecraft:frogspawn",
+            "id": "minecraft:twisting_vines",
             "required": false
         },
         {
-            "id": "minecraft:pale_moss_carpet",
+            "id": "minecraft:vine",
             "required": false
         },
         {
-            "id": "minecraft:pale_hanging_moss",
+            "id": "minecraft:weeping_vines",
+            "required": false
+        },
+        {
+            "id": "minecraft:wheat",
             "required": false
         }
     ]

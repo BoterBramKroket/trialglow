@@ -1,6 +1,14 @@
 {
     "values": [
         {
+            "id": "minecraft:camel",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/cat",
+            "required": false
+        },
+        {
             "id": "minecraft:cave_spider",
             "required": false
         },
@@ -17,23 +25,11 @@
             "required": false
         },
         {
-            "id": "minecraft:copper_golem",
-            "required": false
-        },
-        {
             "id": "#iris:shape_groups/cow",
             "required": false
         },
         {
-            "id": "minecraft:creaking",
-            "required": false
-        },
-        {
             "id": "minecraft:creeper",
-            "required": false
-        },
-        {
-            "id": "minecraft:cushion",
             "required": false
         },
         {

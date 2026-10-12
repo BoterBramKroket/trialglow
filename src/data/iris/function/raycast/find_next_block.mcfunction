@@ -2,6 +2,7 @@
 #
 # Find the coordinates of the next tile that should be traversed by the ray
 #
+# @private
 # @within iris:raycast/loop
 # @writes
 #   scores $[x] $[y] $[z] iris

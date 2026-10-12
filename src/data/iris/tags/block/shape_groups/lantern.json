@@ -1,11 +1,11 @@
 {
     "values": [
         {
-            "id": "minecraft:camel",
+            "id": "minecraft:lantern",
             "required": false
         },
         {
-            "id": "minecraft:camel_husk",
+            "id": "minecraft:soul_lantern",
             "required": false
         }
     ]

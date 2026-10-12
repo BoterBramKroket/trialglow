@@ -1,11 +1,11 @@
 {
     "values": [
         {
-            "id": "minecraft:pointed_dripstone",
+            "id": "minecraft:skeleton",
             "required": false
         },
         {
-            "id": "minecraft:sulfur_spike",
+            "id": "minecraft:stray",
             "required": false
         }
     ]

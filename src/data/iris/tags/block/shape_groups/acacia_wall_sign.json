@@ -37,14 +37,6 @@
             "required": false
         },
         {
-            "id": "minecraft:pale_oak_wall_sign",
-            "required": false
-        },
-        {
-            "id": "minecraft:poplar_wall_sign",
-            "required": false
-        },
-        {
             "id": "minecraft:spruce_wall_sign",
             "required": false
         },

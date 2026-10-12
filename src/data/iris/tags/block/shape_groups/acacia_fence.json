@@ -41,14 +41,6 @@
             "required": false
         },
         {
-            "id": "minecraft:pale_oak_fence",
-            "required": false
-        },
-        {
-            "id": "minecraft:poplar_fence",
-            "required": false
-        },
-        {
             "id": "minecraft:spruce_fence",
             "required": false
         },

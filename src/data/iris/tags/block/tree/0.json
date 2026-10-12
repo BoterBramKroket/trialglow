@@ -1,7 +1,23 @@
 {
     "values": [
         {
-            "id": "#iris:shape_groups/air",
+            "id": "#iris:shape_groups/acacia_button",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_door",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_fence",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_fence_gate",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_hanging_sign",
             "required": false
         },
         {
@@ -9,55 +25,15 @@
             "required": false
         },
         {
+            "id": "#iris:shape_groups/acacia_pressure_plate",
+            "required": false
+        },
+        {
             "id": "#iris:shape_groups/acacia_sapling",
             "required": false
         },
         {
-            "id": "minecraft:mangrove_propagule",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/black_bed",
-            "required": false
-        },
-        {
-            "id": "minecraft:straw_bed",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/activator_rail",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/piston",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/crimson_roots",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/bush",
-            "required": false
-        },
-        {
-            "id": "minecraft:short_dry_grass",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/cactus",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/sugar_cane",
-            "required": false
-        },
-        {
-            "id": "minecraft:piston_head",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/acacia_stairs",
+            "id": "#iris:shape_groups/acacia_sign",
             "required": false
         },
         {
@@ -65,39 +41,51 @@
             "required": false
         },
         {
+            "id": "#iris:shape_groups/acacia_stairs",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_trapdoor",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_wall_hanging_sign",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_wall_sign",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/activator_rail",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/air",
+            "required": false
+        },
+        {
             "id": "#iris:shape_groups/allium",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/brown_mushroom",
+            "id": "minecraft:amethyst_cluster",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/acacia_shelf",
+            "id": "#iris:shape_groups/andesite_wall",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/copper_torch",
+            "id": "#iris:shape_groups/anvil",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/copper_wall_torch",
+            "id": "#iris:shape_groups/attached_melon_stem",
             "required": false
         },
         {
-            "id": "minecraft:fire",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/black_carpet",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/chest",
-            "required": false
-        },
-        {
-            "id": "minecraft:redstone_wire",
+            "id": "#iris:shape_groups/azalea",
             "required": false
         }
     ]

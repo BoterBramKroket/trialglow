@@ -21,23 +21,7 @@
             "required": false
         },
         {
-            "id": "minecraft:black_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:black_wool_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:blackstone_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:blue_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:blue_wool_slab",
             "required": false
         },
         {
@@ -45,23 +29,7 @@
             "required": false
         },
         {
-            "id": "minecraft:brown_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:brown_wool_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:cherry_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:cinnabar_brick_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:cinnabar_slab",
             "required": false
         },
         {
@@ -86,14 +54,6 @@
         },
         {
             "id": "minecraft:cut_sandstone_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:cyan_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:cyan_wool_slab",
             "required": false
         },
         {
@@ -129,55 +89,7 @@
             "required": false
         },
         {
-            "id": "minecraft:gray_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:gray_wool_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:green_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:green_wool_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:jungle_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:light_blue_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:light_blue_wool_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:light_gray_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:light_gray_wool_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:lime_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:lime_wool_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:magenta_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:magenta_wool_slab",
             "required": false
         },
         {
@@ -205,31 +117,11 @@
             "required": false
         },
         {
-            "id": "minecraft:orange_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:orange_wool_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:oxidized_cut_copper_slab",
             "required": false
         },
         {
-            "id": "minecraft:pale_oak_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:petrified_oak_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:pink_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:pink_wool_slab",
             "required": false
         },
         {
@@ -245,10 +137,6 @@
             "required": false
         },
         {
-            "id": "minecraft:polished_cinnabar_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:polished_deepslate_slab",
             "required": false
         },
@@ -261,15 +149,7 @@
             "required": false
         },
         {
-            "id": "minecraft:polished_sulfur_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:polished_tuff_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:poplar_slab",
             "required": false
         },
         {
@@ -281,14 +161,6 @@
             "required": false
         },
         {
-            "id": "minecraft:purple_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:purple_wool_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:purpur_slab",
             "required": false
         },
@@ -297,23 +169,11 @@
             "required": false
         },
         {
-            "id": "minecraft:red_concrete_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:red_nether_brick_slab",
             "required": false
         },
         {
             "id": "minecraft:red_sandstone_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:red_wool_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:resin_brick_slab",
             "required": false
         },
         {
@@ -349,14 +209,6 @@
             "required": false
         },
         {
-            "id": "minecraft:sulfur_brick_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:sulfur_slab",
-            "required": false
-        },
-        {
             "id": "minecraft:tuff_brick_slab",
             "required": false
         },
@@ -386,22 +238,6 @@
         },
         {
             "id": "minecraft:weathered_cut_copper_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:white_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:white_wool_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:yellow_concrete_slab",
-            "required": false
-        },
-        {
-            "id": "minecraft:yellow_wool_slab",
             "required": false
         }
     ]

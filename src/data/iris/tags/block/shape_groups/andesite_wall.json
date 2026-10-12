@@ -13,14 +13,6 @@
             "required": false
         },
         {
-            "id": "minecraft:cinnabar_brick_wall",
-            "required": false
-        },
-        {
-            "id": "minecraft:cinnabar_wall",
-            "required": false
-        },
-        {
             "id": "minecraft:cobbled_deepslate_wall",
             "required": false
         },
@@ -73,15 +65,7 @@
             "required": false
         },
         {
-            "id": "minecraft:polished_cinnabar_wall",
-            "required": false
-        },
-        {
             "id": "minecraft:polished_deepslate_wall",
-            "required": false
-        },
-        {
-            "id": "minecraft:polished_sulfur_wall",
             "required": false
         },
         {
@@ -101,23 +85,11 @@
             "required": false
         },
         {
-            "id": "minecraft:resin_brick_wall",
-            "required": false
-        },
-        {
             "id": "minecraft:sandstone_wall",
             "required": false
         },
         {
             "id": "minecraft:stone_brick_wall",
-            "required": false
-        },
-        {
-            "id": "minecraft:sulfur_brick_wall",
-            "required": false
-        },
-        {
-            "id": "minecraft:sulfur_wall",
             "required": false
         },
         {

@@ -1,10 +1,6 @@
 {
     "values": [
         {
-            "id": "minecraft:copper_torch",
-            "required": false
-        },
-        {
             "id": "minecraft:redstone_torch",
             "required": false
         },

@@ -21,23 +21,7 @@
             "required": false
         },
         {
-            "id": "minecraft:black_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:black_wool_stairs",
-            "required": false
-        },
-        {
             "id": "minecraft:blackstone_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:blue_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:blue_wool_stairs",
             "required": false
         },
         {
@@ -45,23 +29,7 @@
             "required": false
         },
         {
-            "id": "minecraft:brown_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:brown_wool_stairs",
-            "required": false
-        },
-        {
             "id": "minecraft:cherry_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:cinnabar_brick_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:cinnabar_stairs",
             "required": false
         },
         {
@@ -78,14 +46,6 @@
         },
         {
             "id": "minecraft:cut_copper_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:cyan_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:cyan_wool_stairs",
             "required": false
         },
         {
@@ -121,55 +81,7 @@
             "required": false
         },
         {
-            "id": "minecraft:gray_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:gray_wool_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:green_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:green_wool_stairs",
-            "required": false
-        },
-        {
             "id": "minecraft:jungle_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:light_blue_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:light_blue_wool_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:light_gray_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:light_gray_wool_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:lime_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:lime_wool_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:magenta_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:magenta_wool_stairs",
             "required": false
         },
         {
@@ -197,27 +109,7 @@
             "required": false
         },
         {
-            "id": "minecraft:orange_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:orange_wool_stairs",
-            "required": false
-        },
-        {
             "id": "minecraft:oxidized_cut_copper_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:pale_oak_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:pink_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:pink_wool_stairs",
             "required": false
         },
         {
@@ -233,10 +125,6 @@
             "required": false
         },
         {
-            "id": "minecraft:polished_cinnabar_stairs",
-            "required": false
-        },
-        {
             "id": "minecraft:polished_deepslate_stairs",
             "required": false
         },
@@ -249,15 +137,7 @@
             "required": false
         },
         {
-            "id": "minecraft:polished_sulfur_stairs",
-            "required": false
-        },
-        {
             "id": "minecraft:polished_tuff_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:poplar_stairs",
             "required": false
         },
         {
@@ -269,14 +149,6 @@
             "required": false
         },
         {
-            "id": "minecraft:purple_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:purple_wool_stairs",
-            "required": false
-        },
-        {
             "id": "minecraft:purpur_stairs",
             "required": false
         },
@@ -285,23 +157,11 @@
             "required": false
         },
         {
-            "id": "minecraft:red_concrete_stairs",
-            "required": false
-        },
-        {
             "id": "minecraft:red_nether_brick_stairs",
             "required": false
         },
         {
             "id": "minecraft:red_sandstone_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:red_wool_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:resin_brick_stairs",
             "required": false
         },
         {
@@ -330,14 +190,6 @@
         },
         {
             "id": "minecraft:stone_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:sulfur_brick_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:sulfur_stairs",
             "required": false
         },
         {
@@ -370,22 +222,6 @@
         },
         {
             "id": "minecraft:weathered_cut_copper_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:white_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:white_wool_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:yellow_concrete_stairs",
-            "required": false
-        },
-        {
-            "id": "minecraft:yellow_wool_stairs",
             "required": false
         }
     ]
