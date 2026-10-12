@@ -2,6 +2,7 @@
 #
 # Compute bitwise XOR (^) on two scores
 #
+# @private
 # @within iris:get_hitbox/block/offset
 # @reads
 #   score $a iris

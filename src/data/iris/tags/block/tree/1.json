@@ -1,6 +1,14 @@
 {
     "values": [
         {
+            "id": "minecraft:bamboo",
+            "required": false
+        },
+        {
+            "id": "minecraft:bamboo_sapling",
+            "required": false
+        },
+        {
             "id": "minecraft:beetroots",
             "required": false
         },
@@ -61,15 +69,7 @@
             "required": false
         },
         {
-            "id": "minecraft:bush",
-            "required": false
-        },
-        {
             "id": "#iris:shape_groups/cactus",
-            "required": false
-        },
-        {
-            "id": "minecraft:cactus_flower",
             "required": false
         },
         {
@@ -86,14 +86,6 @@
         },
         {
             "id": "#iris:shape_groups/carrots",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/cauldron",
-            "required": false
-        },
-        {
-            "id": "minecraft:chain",
             "required": false
         }
     ]

@@ -85,10 +85,6 @@
             "required": false
         },
         {
-            "id": "minecraft:resin_brick_wall",
-            "required": false
-        },
-        {
             "id": "minecraft:sandstone_wall",
             "required": false
         },

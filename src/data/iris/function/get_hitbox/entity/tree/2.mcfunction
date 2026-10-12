@@ -1,5 +1,3 @@
-execute if entity @s[type=#iris:shape_groups/drowned] run function iris:get_hitbox/entity/shape_groups/drowned
-execute if entity @s[type=#iris:shape_groups/egg] run function iris:get_hitbox/entity/shape_groups/egg
 execute if entity @s[type=minecraft:elder_guardian] run function iris:get_hitbox/entity/shape_groups/elder_guardian
 execute if entity @s[type=minecraft:end_crystal] run function iris:get_hitbox/entity/shape_groups/end_crystal
 execute if entity @s[type=minecraft:ender_dragon] run function iris:get_hitbox/entity/shape_groups/ender_dragon
@@ -10,3 +8,6 @@ execute if entity @s[type=#iris:shape_groups/falling_block] run function iris:ge
 execute if entity @s[type=minecraft:ghast] run function iris:get_hitbox/entity/shape_groups/ghast
 execute if entity @s[type=minecraft:giant] run function iris:get_hitbox/entity/shape_groups/giant
 execute if entity @s[type=#iris:shape_groups/glow_squid] run function iris:get_hitbox/entity/shape_groups/glow_squid
+execute if entity @s[type=#iris:shape_groups/goat] run function iris:get_hitbox/entity/shape_groups/goat
+execute if entity @s[type=minecraft:guardian] run function iris:get_hitbox/entity/shape_groups/guardian
+execute if entity @s[type=#iris:shape_groups/hoglin] run function iris:get_hitbox/entity/shape_groups/hoglin

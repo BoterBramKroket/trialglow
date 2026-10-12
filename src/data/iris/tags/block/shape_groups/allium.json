@@ -13,10 +13,6 @@
             "required": false
         },
         {
-            "id": "minecraft:closed_eyeblossom",
-            "required": false
-        },
-        {
             "id": "minecraft:cornflower",
             "required": false
         },
@@ -26,10 +22,6 @@
         },
         {
             "id": "minecraft:lily_of_the_valley",
-            "required": false
-        },
-        {
-            "id": "minecraft:open_eyeblossom",
             "required": false
         },
         {

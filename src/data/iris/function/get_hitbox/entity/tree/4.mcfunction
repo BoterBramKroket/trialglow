@@ -1,4 +1,3 @@
-execute if entity @s[type=minecraft:salmon] run function iris:get_hitbox/entity/shape_groups/salmon
 execute if entity @s[type=minecraft:sniffer] run function iris:get_hitbox/entity/shape_groups/sniffer
 execute if entity @s[type=minecraft:snow_golem] run function iris:get_hitbox/entity/shape_groups/snow_golem
 execute if entity @s[type=minecraft:spider] run function iris:get_hitbox/entity/shape_groups/spider

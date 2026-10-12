@@ -1,3 +1,5 @@
+execute if block ~ ~ ~ #iris:shape_groups/cauldron run function iris:get_hitbox/block/shape_groups/cauldron
+execute if block ~ ~ ~ minecraft:chain run function iris:get_hitbox/block/shape_groups/chain
 execute if block ~ ~ ~ #iris:shape_groups/chest run function iris:get_hitbox/block/shape_groups/chest
 execute if block ~ ~ ~ minecraft:chorus_plant run function iris:get_hitbox/block/shape_groups/chorus_plant
 execute if block ~ ~ ~ minecraft:cocoa run function iris:get_hitbox/block/shape_groups/cocoa
@@ -18,7 +20,3 @@ execute if block ~ ~ ~ minecraft:ender_chest run function iris:get_hitbox/block/
 execute if block ~ ~ ~ minecraft:fire run function iris:get_hitbox/block/shape_groups/fire
 execute if block ~ ~ ~ minecraft:frogspawn run function iris:get_hitbox/block/shape_groups/frogspawn
 execute if block ~ ~ ~ #iris:shape_groups/glow_lichen run function iris:get_hitbox/block/shape_groups/glow_lichen
-execute if block ~ ~ ~ minecraft:grindstone run function iris:get_hitbox/block/shape_groups/grindstone
-execute if block ~ ~ ~ minecraft:hanging_roots run function iris:get_hitbox/block/shape_groups/hanging_roots
-execute if block ~ ~ ~ #iris:shape_groups/heavy_weighted_pressure_plate run function iris:get_hitbox/block/shape_groups/heavy_weighted_pressure_plate
-execute if block ~ ~ ~ minecraft:hopper run function iris:get_hitbox/block/shape_groups/hopper

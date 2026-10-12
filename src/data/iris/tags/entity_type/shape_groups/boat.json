@@ -1,0 +1,12 @@
+{
+    "values": [
+        {
+            "id": "minecraft:boat",
+            "required": false
+        },
+        {
+            "id": "minecraft:chest_boat",
+            "required": false
+        }
+    ]
+}

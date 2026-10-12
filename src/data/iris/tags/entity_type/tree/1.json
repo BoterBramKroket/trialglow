@@ -29,10 +29,6 @@
             "required": false
         },
         {
-            "id": "minecraft:creaking",
-            "required": false
-        },
-        {
             "id": "minecraft:creeper",
             "required": false
         },
@@ -46,6 +42,14 @@
         },
         {
             "id": "#iris:shape_groups/dragon_fireball",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/drowned",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/egg",
             "required": false
         }
     ]

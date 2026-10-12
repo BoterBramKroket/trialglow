@@ -1,3 +1,5 @@
+execute if block ~ ~ ~ minecraft:bamboo run function iris:get_hitbox/block/shape_groups/bamboo
+execute if block ~ ~ ~ minecraft:bamboo_sapling run function iris:get_hitbox/block/shape_groups/bamboo_sapling
 execute if block ~ ~ ~ minecraft:beetroots run function iris:get_hitbox/block/shape_groups/beetroots
 execute if block ~ ~ ~ minecraft:bell run function iris:get_hitbox/block/shape_groups/bell
 execute if block ~ ~ ~ minecraft:big_dripleaf run function iris:get_hitbox/block/shape_groups/big_dripleaf
@@ -13,12 +15,8 @@ execute if block ~ ~ ~ #iris:shape_groups/brain_coral_fan run function iris:get_
 execute if block ~ ~ ~ #iris:shape_groups/brain_coral_wall_fan run function iris:get_hitbox/block/shape_groups/brain_coral_wall_fan
 execute if block ~ ~ ~ minecraft:brewing_stand run function iris:get_hitbox/block/shape_groups/brewing_stand
 execute if block ~ ~ ~ #iris:shape_groups/brown_mushroom run function iris:get_hitbox/block/shape_groups/brown_mushroom
-execute if block ~ ~ ~ minecraft:bush run function iris:get_hitbox/block/shape_groups/bush
 execute if block ~ ~ ~ #iris:shape_groups/cactus run function iris:get_hitbox/block/shape_groups/cactus
-execute if block ~ ~ ~ minecraft:cactus_flower run function iris:get_hitbox/block/shape_groups/cactus_flower
 execute if block ~ ~ ~ minecraft:cake run function iris:get_hitbox/block/shape_groups/cake
 execute if block ~ ~ ~ #iris:shape_groups/calibrated_sculk_sensor run function iris:get_hitbox/block/shape_groups/calibrated_sculk_sensor
 execute if block ~ ~ ~ #iris:shape_groups/campfire run function iris:get_hitbox/block/shape_groups/campfire
 execute if block ~ ~ ~ #iris:shape_groups/carrots run function iris:get_hitbox/block/shape_groups/carrots
-execute if block ~ ~ ~ #iris:shape_groups/cauldron run function iris:get_hitbox/block/shape_groups/cauldron
-execute if block ~ ~ ~ minecraft:chain run function iris:get_hitbox/block/shape_groups/chain
