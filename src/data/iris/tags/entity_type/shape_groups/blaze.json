@@ -5,7 +5,7 @@
             "required": false
         },
         {
-            "id": "minecraft:player",
+            "id": "minecraft:mannequin",
             "required": false
         }
     ]

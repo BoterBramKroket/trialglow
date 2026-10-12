@@ -1,11 +1,11 @@
 {
     "values": [
         {
-            "id": "minecraft:breeze",
+            "id": "minecraft:pink_petals",
             "required": false
         },
         {
-            "id": "minecraft:creeper",
+            "id": "minecraft:wildflowers",
             "required": false
         }
     ]

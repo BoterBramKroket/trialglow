@@ -1,19 +1,7 @@
 {
     "values": [
         {
-            "id": "minecraft:sniffer",
-            "required": false
-        },
-        {
-            "id": "minecraft:snow_golem",
-            "required": false
-        },
-        {
-            "id": "minecraft:spider",
-            "required": false
-        },
-        {
-            "id": "minecraft:strider",
+            "id": "minecraft:sulfur_cube",
             "required": false
         },
         {
@@ -42,6 +30,26 @@
         },
         {
             "id": "minecraft:wolf",
+            "required": false
+        },
+        {
+            "id": "minecraft:armor_stand",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/magma_cube",
+            "required": false
+        },
+        {
+            "id": "minecraft:phantom",
+            "required": false
+        },
+        {
+            "id": "minecraft:player",
+            "required": false
+        },
+        {
+            "id": "minecraft:pufferfish",
             "required": false
         }
     ]

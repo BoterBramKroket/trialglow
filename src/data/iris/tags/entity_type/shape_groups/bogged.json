@@ -5,6 +5,10 @@
             "required": false
         },
         {
+            "id": "minecraft:parched",
+            "required": false
+        },
+        {
             "id": "minecraft:skeleton",
             "required": false
         },

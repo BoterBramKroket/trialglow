@@ -1,23 +1,7 @@
 {
     "values": [
         {
-            "id": "#iris:shape_groups/acacia_button",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/acacia_door",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/acacia_fence",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/acacia_fence_gate",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/acacia_hanging_sign",
+            "id": "#iris:shape_groups/air",
             "required": false
         },
         {
@@ -25,35 +9,19 @@
             "required": false
         },
         {
-            "id": "#iris:shape_groups/acacia_pressure_plate",
-            "required": false
-        },
-        {
             "id": "#iris:shape_groups/acacia_sapling",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/acacia_sign",
+            "id": "minecraft:mangrove_propagule",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/acacia_slab",
+            "id": "#iris:shape_groups/black_bed",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/acacia_stairs",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/acacia_trapdoor",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/acacia_wall_hanging_sign",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/acacia_wall_sign",
+            "id": "minecraft:straw_bed",
             "required": false
         },
         {
@@ -61,7 +29,39 @@
             "required": false
         },
         {
-            "id": "#iris:shape_groups/air",
+            "id": "#iris:shape_groups/piston",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/crimson_roots",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/bush",
+            "required": false
+        },
+        {
+            "id": "minecraft:short_dry_grass",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/cactus",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/sugar_cane",
+            "required": false
+        },
+        {
+            "id": "minecraft:piston_head",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_stairs",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/acacia_slab",
             "required": false
         },
         {
@@ -69,23 +69,35 @@
             "required": false
         },
         {
-            "id": "minecraft:amethyst_cluster",
+            "id": "#iris:shape_groups/brown_mushroom",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/andesite_wall",
+            "id": "#iris:shape_groups/acacia_shelf",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/anvil",
+            "id": "#iris:shape_groups/copper_torch",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/attached_melon_stem",
+            "id": "#iris:shape_groups/copper_wall_torch",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/azalea",
+            "id": "minecraft:fire",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/black_carpet",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/chest",
+            "required": false
+        },
+        {
+            "id": "minecraft:redstone_wire",
             "required": false
         }
     ]

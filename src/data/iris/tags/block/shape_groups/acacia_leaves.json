@@ -249,6 +249,10 @@
             "required": false
         },
         {
+            "id": "minecraft:chiseled_cinnabar",
+            "required": false
+        },
+        {
             "id": "minecraft:chiseled_copper",
             "required": false
         },
@@ -273,11 +277,19 @@
             "required": false
         },
         {
+            "id": "minecraft:chiseled_resin_bricks",
+            "required": false
+        },
+        {
             "id": "minecraft:chiseled_sandstone",
             "required": false
         },
         {
             "id": "minecraft:chiseled_stone_bricks",
+            "required": false
+        },
+        {
+            "id": "minecraft:chiseled_sulfur",
             "required": false
         },
         {
@@ -290,6 +302,14 @@
         },
         {
             "id": "minecraft:chorus_flower",
+            "required": false
+        },
+        {
+            "id": "minecraft:cinnabar",
+            "required": false
+        },
+        {
+            "id": "minecraft:cinnabar_bricks",
             "required": false
         },
         {
@@ -366,6 +386,10 @@
         },
         {
             "id": "minecraft:crafting_table",
+            "required": false
+        },
+        {
+            "id": "minecraft:creaking_heart",
             "required": false
         },
         {
@@ -586,6 +610,10 @@
         },
         {
             "id": "minecraft:fire_coral_block",
+            "required": false
+        },
+        {
+            "id": "minecraft:firefly_bush",
             "required": false
         },
         {
@@ -1045,6 +1073,10 @@
             "required": false
         },
         {
+            "id": "minecraft:orange_poplar_leaves",
+            "required": false
+        },
+        {
             "id": "minecraft:orange_shulker_box",
             "required": false
         },
@@ -1086,6 +1118,26 @@
         },
         {
             "id": "minecraft:packed_mud",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_moss_block",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_oak_leaves",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_oak_log",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_oak_planks",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_oak_wood",
             "required": false
         },
         {
@@ -1149,6 +1201,10 @@
             "required": false
         },
         {
+            "id": "minecraft:polished_cinnabar",
+            "required": false
+        },
+        {
             "id": "minecraft:polished_deepslate",
             "required": false
         },
@@ -1161,7 +1217,27 @@
             "required": false
         },
         {
+            "id": "minecraft:polished_sulfur",
+            "required": false
+        },
+        {
             "id": "minecraft:polished_tuff",
+            "required": false
+        },
+        {
+            "id": "minecraft:poplar_log",
+            "required": false
+        },
+        {
+            "id": "minecraft:poplar_planks",
+            "required": false
+        },
+        {
+            "id": "minecraft:poplar_wood",
+            "required": false
+        },
+        {
+            "id": "minecraft:potent_sulfur",
             "required": false
         },
         {
@@ -1261,6 +1337,10 @@
             "required": false
         },
         {
+            "id": "minecraft:red_poplar_leaves",
+            "required": false
+        },
+        {
             "id": "minecraft:red_sand",
             "required": false
         },
@@ -1302,6 +1382,14 @@
         },
         {
             "id": "minecraft:repeating_command_block",
+            "required": false
+        },
+        {
+            "id": "minecraft:resin_block",
+            "required": false
+        },
+        {
+            "id": "minecraft:resin_bricks",
             "required": false
         },
         {
@@ -1493,6 +1581,22 @@
             "required": false
         },
         {
+            "id": "minecraft:stripped_pale_oak_log",
+            "required": false
+        },
+        {
+            "id": "minecraft:stripped_pale_oak_wood",
+            "required": false
+        },
+        {
+            "id": "minecraft:stripped_poplar_log",
+            "required": false
+        },
+        {
+            "id": "minecraft:stripped_poplar_wood",
+            "required": false
+        },
+        {
             "id": "minecraft:stripped_spruce_log",
             "required": false
         },
@@ -1510,6 +1614,14 @@
         },
         {
             "id": "minecraft:structure_block",
+            "required": false
+        },
+        {
+            "id": "minecraft:sulfur",
+            "required": false
+        },
+        {
+            "id": "minecraft:sulfur_bricks",
             "required": false
         },
         {
@@ -1534,6 +1646,14 @@
         },
         {
             "id": "minecraft:terracotta",
+            "required": false
+        },
+        {
+            "id": "minecraft:test_block",
+            "required": false
+        },
+        {
+            "id": "minecraft:test_instance_block",
             "required": false
         },
         {
@@ -1730,6 +1850,10 @@
         },
         {
             "id": "minecraft:yellow_glazed_terracotta",
+            "required": false
+        },
+        {
+            "id": "minecraft:yellow_poplar_leaves",
             "required": false
         },
         {

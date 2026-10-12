@@ -21,6 +21,10 @@
             "required": false
         },
         {
+            "id": "minecraft:tall_dry_grass",
+            "required": false
+        },
+        {
             "id": "minecraft:weeping_vines_plant",
             "required": false
         }

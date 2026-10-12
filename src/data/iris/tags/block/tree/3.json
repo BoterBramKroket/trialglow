@@ -1,19 +1,27 @@
 {
     "values": [
         {
-            "id": "minecraft:grindstone",
+            "id": "#iris:shape_groups/end_rod",
             "required": false
         },
         {
-            "id": "minecraft:hanging_roots",
+            "id": "minecraft:chorus_plant",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/heavy_weighted_pressure_plate",
+            "id": "minecraft:torchflower_crop",
             "required": false
         },
         {
-            "id": "minecraft:hopper",
+            "id": "minecraft:pitcher_crop",
+            "required": false
+        },
+        {
+            "id": "minecraft:beetroots",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/conduit",
             "required": false
         },
         {
@@ -21,15 +29,47 @@
             "required": false
         },
         {
-            "id": "minecraft:ladder",
+            "id": "minecraft:turtle_egg",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/lantern",
+            "id": "minecraft:sniffer_egg",
             "required": false
         },
         {
-            "id": "minecraft:large_amethyst_bud",
+            "id": "minecraft:dried_ghast",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/brain_coral",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/brain_coral_fan",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/brain_coral_wall_fan",
+            "required": false
+        },
+        {
+            "id": "minecraft:sea_pickle",
+            "required": false
+        },
+        {
+            "id": "minecraft:bamboo_sapling",
+            "required": false
+        },
+        {
+            "id": "minecraft:bamboo",
+            "required": false
+        },
+        {
+            "id": "minecraft:scaffolding",
+            "required": false
+        },
+        {
+            "id": "minecraft:grindstone",
             "required": false
         },
         {
@@ -37,55 +77,27 @@
             "required": false
         },
         {
-            "id": "minecraft:lever",
+            "id": "minecraft:bell",
             "required": false
         },
         {
-            "id": "minecraft:lily_pad",
+            "id": "#iris:shape_groups/copper_lantern",
             "required": false
         },
         {
-            "id": "minecraft:mangrove_propagule",
+            "id": "#iris:shape_groups/campfire",
             "required": false
         },
         {
-            "id": "minecraft:medium_amethyst_bud",
+            "id": "minecraft:sweet_berry_bush",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/melon_stem",
-            "required": false
-        },
-        {
-            "id": "minecraft:nether_portal",
+            "id": "#iris:shape_groups/crimson_fungus",
             "required": false
         },
         {
             "id": "minecraft:nether_sprouts",
-            "required": false
-        },
-        {
-            "id": "minecraft:nether_wart",
-            "required": false
-        },
-        {
-            "id": "minecraft:piglin_head",
-            "required": false
-        },
-        {
-            "id": "minecraft:piglin_wall_head",
-            "required": false
-        },
-        {
-            "id": "minecraft:pink_petals",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/piston",
-            "required": false
-        },
-        {
-            "id": "minecraft:piston_head",
             "required": false
         }
     ]

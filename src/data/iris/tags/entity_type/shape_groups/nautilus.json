@@ -1,11 +1,11 @@
 {
     "values": [
         {
-            "id": "minecraft:boat",
+            "id": "minecraft:nautilus",
             "required": false
         },
         {
-            "id": "minecraft:chest_boat",
+            "id": "minecraft:zombie_nautilus",
             "required": false
         }
     ]

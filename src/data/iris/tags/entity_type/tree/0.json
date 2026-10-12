@@ -1,6 +1,10 @@
 {
     "values": [
         {
+            "id": "#iris:shape_groups/acacia_boat",
+            "required": false
+        },
+        {
             "id": "minecraft:allay",
             "required": false
         },
@@ -10,10 +14,6 @@
         },
         {
             "id": "minecraft:armadillo",
-            "required": false
-        },
-        {
-            "id": "minecraft:armor_stand",
             "required": false
         },
         {
@@ -37,10 +37,6 @@
             "required": false
         },
         {
-            "id": "#iris:shape_groups/boat",
-            "required": false
-        },
-        {
             "id": "#iris:shape_groups/bogged",
             "required": false
         },
@@ -50,6 +46,14 @@
         },
         {
             "id": "#iris:shape_groups/breeze_wind_charge",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/camel",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/cat",
             "required": false
         }
     ]

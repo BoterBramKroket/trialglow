@@ -5,10 +5,6 @@
             "required": false
         },
         {
-            "id": "minecraft:dragon_head",
-            "required": false
-        },
-        {
             "id": "minecraft:heavy_core",
             "required": false
         },

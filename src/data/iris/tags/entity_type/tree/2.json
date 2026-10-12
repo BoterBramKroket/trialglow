@@ -5,7 +5,11 @@
             "required": false
         },
         {
-            "id": "minecraft:end_crystal",
+            "id": "minecraft:enderman",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/endermite",
             "required": false
         },
         {
@@ -13,11 +17,7 @@
             "required": false
         },
         {
-            "id": "minecraft:enderman",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/endermite",
+            "id": "minecraft:end_crystal",
             "required": false
         },
         {
@@ -29,7 +29,7 @@
             "required": false
         },
         {
-            "id": "minecraft:ghast",
+            "id": "#iris:shape_groups/ghast",
             "required": false
         },
         {
@@ -50,6 +50,10 @@
         },
         {
             "id": "#iris:shape_groups/hoglin",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/horse",
             "required": false
         }
     ]

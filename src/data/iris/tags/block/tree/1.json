@@ -1,75 +1,67 @@
 {
     "values": [
         {
-            "id": "minecraft:bamboo",
+            "id": "minecraft:wheat",
             "required": false
         },
         {
-            "id": "minecraft:bamboo_sapling",
+            "id": "#iris:shape_groups/dirt_path",
             "required": false
         },
         {
-            "id": "minecraft:beetroots",
+            "id": "#iris:shape_groups/acacia_sign",
             "required": false
         },
         {
-            "id": "minecraft:bell",
+            "id": "#iris:shape_groups/acacia_door",
             "required": false
         },
         {
-            "id": "minecraft:big_dripleaf",
+            "id": "minecraft:ladder",
             "required": false
         },
         {
-            "id": "minecraft:big_dripleaf_stem",
+            "id": "minecraft:rail",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/black_bed",
+            "id": "#iris:shape_groups/acacia_wall_sign",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/black_candle",
+            "id": "#iris:shape_groups/acacia_hanging_sign",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/black_candle_cake",
+            "id": "#iris:shape_groups/acacia_wall_hanging_sign",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/black_carpet",
+            "id": "minecraft:lever",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/black_stained_glass_pane",
+            "id": "#iris:shape_groups/acacia_pressure_plate",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/black_wall_banner",
+            "id": "#iris:shape_groups/acacia_button",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/brain_coral",
+            "id": "minecraft:snow",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/brain_coral_fan",
+            "id": "minecraft:cactus_flower",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/brain_coral_wall_fan",
+            "id": "#iris:shape_groups/acacia_fence",
             "required": false
         },
         {
-            "id": "minecraft:brewing_stand",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/brown_mushroom",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/cactus",
+            "id": "minecraft:nether_portal",
             "required": false
         },
         {
@@ -77,15 +69,35 @@
             "required": false
         },
         {
-            "id": "#iris:shape_groups/calibrated_sculk_sensor",
+            "id": "#iris:shape_groups/comparator",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/campfire",
+            "id": "#iris:shape_groups/acacia_trapdoor",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/carrots",
+            "id": "#iris:shape_groups/black_stained_glass_pane",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/copper_chain",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/attached_melon_stem",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/melon_stem",
+            "required": false
+        },
+        {
+            "id": "minecraft:vine",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/glow_lichen",
             "required": false
         }
     ]

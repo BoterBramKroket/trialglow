@@ -1,63 +1,31 @@
 {
     "values": [
         {
-            "id": "#iris:shape_groups/cauldron",
+            "id": "#iris:shape_groups/acacia_fence_gate",
             "required": false
         },
         {
-            "id": "minecraft:chain",
+            "id": "minecraft:lily_pad",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/chest",
+            "id": "#iris:shape_groups/andesite_wall",
             "required": false
         },
         {
-            "id": "minecraft:chorus_plant",
-            "required": false
-        },
-        {
-            "id": "minecraft:cocoa",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/comparator",
-            "required": false
-        },
-        {
-            "id": "minecraft:composter",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/conduit",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/creeper_head",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/creeper_wall_head",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/crimson_fungus",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/crimson_roots",
-            "required": false
-        },
-        {
-            "id": "minecraft:daylight_detector",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/dirt_path",
+            "id": "minecraft:nether_wart",
             "required": false
         },
         {
             "id": "minecraft:enchanting_table",
+            "required": false
+        },
+        {
+            "id": "minecraft:brewing_stand",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/cauldron",
             "required": false
         },
         {
@@ -69,7 +37,11 @@
             "required": false
         },
         {
-            "id": "#iris:shape_groups/end_rod",
+            "id": "minecraft:cocoa",
+            "required": false
+        },
+        {
+            "id": "minecraft:shelf_mushroom",
             "required": false
         },
         {
@@ -77,15 +49,55 @@
             "required": false
         },
         {
-            "id": "minecraft:fire",
+            "id": "minecraft:tripwire_hook",
             "required": false
         },
         {
-            "id": "minecraft:frogspawn",
+            "id": "minecraft:tripwire",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/glow_lichen",
+            "id": "#iris:shape_groups/carrots",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/creeper_head",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/creeper_wall_head",
+            "required": false
+        },
+        {
+            "id": "minecraft:dragon_head",
+            "required": false
+        },
+        {
+            "id": "minecraft:piglin_head",
+            "required": false
+        },
+        {
+            "id": "minecraft:piglin_wall_head",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/anvil",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/heavy_weighted_pressure_plate",
+            "required": false
+        },
+        {
+            "id": "minecraft:daylight_detector",
+            "required": false
+        },
+        {
+            "id": "minecraft:hopper",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/black_wall_banner",
             "required": false
         }
     ]

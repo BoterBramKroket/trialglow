@@ -1,0 +1,12 @@
+{
+    "values": [
+        {
+            "id": "minecraft:bush",
+            "required": false
+        },
+        {
+            "id": "minecraft:red_shrub",
+            "required": false
+        }
+    ]
+}

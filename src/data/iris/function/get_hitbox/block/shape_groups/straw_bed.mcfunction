@@ -1,0 +1,8 @@
+execute if block ~ ~ ~ minecraft:straw_bed[facing=north, part=head] run data modify storage iris:data Shape set value [{min: [0.0, 0.0, 0.0], max: [1.0, 0.25, 1.0]},{min: [0.0, 0.25, 0.0], max: [1.0, 0.3125, 0.5]}]
+execute if block ~ ~ ~ minecraft:straw_bed[facing=north, part=foot] run data modify storage iris:data Shape set value [{min: [0.0, 0.0, 0.0], max: [1.0, 0.25, 1.0]}]
+execute if block ~ ~ ~ minecraft:straw_bed[facing=south, part=head] run data modify storage iris:data Shape set value [{min: [0.0, 0.0, 0.0], max: [1.0, 0.25, 1.0]},{min: [0.0, 0.25, 0.5], max: [1.0, 0.3125, 1.0]}]
+execute if block ~ ~ ~ minecraft:straw_bed[facing=south, part=foot] run data modify storage iris:data Shape set value [{min: [0.0, 0.0, 0.0], max: [1.0, 0.25, 1.0]}]
+execute if block ~ ~ ~ minecraft:straw_bed[facing=west, part=head] run data modify storage iris:data Shape set value [{min: [0.0, 0.0, 0.0], max: [1.0, 0.25, 1.0]},{min: [0.0, 0.25, 0.0], max: [0.5, 0.3125, 1.0]}]
+execute if block ~ ~ ~ minecraft:straw_bed[facing=west, part=foot] run data modify storage iris:data Shape set value [{min: [0.0, 0.0, 0.0], max: [1.0, 0.25, 1.0]}]
+execute if block ~ ~ ~ minecraft:straw_bed[facing=east, part=head] run data modify storage iris:data Shape set value [{min: [0.0, 0.0, 0.0], max: [1.0, 0.25, 1.0]},{min: [0.5, 0.25, 0.0], max: [1.0, 0.3125, 1.0]}]
+execute if block ~ ~ ~ minecraft:straw_bed[facing=east, part=foot] run data modify storage iris:data Shape set value [{min: [0.0, 0.0, 0.0], max: [1.0, 0.25, 1.0]}]
