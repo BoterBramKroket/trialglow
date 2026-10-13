@@ -13,9 +13,6 @@ execute if score $loaded trialglow_iris matches 0 run return fail
 execute if data storage trialglow_iris:settings Whitelist run data modify storage trialglow_iris:args id set from storage trialglow_iris:settings Whitelist
 execute if data storage trialglow_iris:settings Whitelist store success score $is_whitelisted trialglow_iris run function trialglow_iris:raycast/macro_functions/block_id_test with storage trialglow_iris:args
 execute if data storage trialglow_iris:settings Whitelist unless score $is_whitelisted trialglow_iris matches 1 run return fail
-execute if data storage trialglow_iris:settings Blacklist run data modify storage trialglow_iris:args id set from storage trialglow_iris:settings Blacklist
-execute if data storage trialglow_iris:settings Blacklist store success score $is_blacklisted trialglow_iris run function trialglow_iris:raycast/macro_functions/block_id_test with storage trialglow_iris:args
-execute if data storage trialglow_iris:settings Blacklist if score $is_blacklisted trialglow_iris matches 1 run return fail
 
 # See if the block is hit
 function trialglow_iris:get_hitbox/block

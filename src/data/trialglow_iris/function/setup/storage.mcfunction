@@ -10,6 +10,5 @@ data merge storage trialglow_iris:data {is_setup: 1b}
 data merge storage trialglow_iris:settings {\
     TargetEntities: false,\
     MaxRecursionDepth: 16,\
-    Blacklist: "#trialglow_iris:shape_groups/air",\
     Whitelist: "minecraft:bell"\
 }
