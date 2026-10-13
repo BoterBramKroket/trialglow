@@ -76,6 +76,6 @@
 		]
 	],
 	"rewards": {
-		"function": "trialglow:raycast/start"
+		"function": "trialglow:raycast"
 	}
 }
